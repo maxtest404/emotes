@@ -1,274 +1,274 @@
 ```
-{k="^(.+) agrees with (.+).
-{k="^(.+) agrees with you.
-{k="^You agree with (.+).
-{k="^(.+) agrees.
-{k="^You agree.
-{k="^(.+) is amazed by (.+)!
-{k="^(.+) is amazed by you!
-{k="^You are amazed by (.+)!
-{k="^(.+) is amazed!
-{k="^You are amazed!
-{k="^(.+) raises his fist in anger at (.+).
-{k="^(.+) raises his fist in anger at you.
-{k="^You raise your fist in anger at (.+).
-{k="^(.+) raises his fist in anger.
-{k="^You raise your fist in anger.
-{k="^(.+) raises her fist in anger at (.+).
-{k="^(.+) raises her fist in anger at you.
-{k="^(.+) raises her fist in anger.
-{k="^(.+) apologizes to (.+).  Sorry!
-{k="^(.+) apologizes to you.  Sorry!
-{k="^You apologize to (.+).  Sorry!
-{k="^(.+) apologizes to everyone.  Sorry!
-{k="^You apologize to everyone.  Sorry!
-{k="^(.+) applauds at (.+).  Bravo!
-{k="^(.+) applauds at you.  Bravo!
-{k="^You applaud at (.+).  Bravo!
-{k="^(.+) applauds.  Bravo!
-{k="^You applaud.  Bravo!
-{k="^(.+) is so bashful...too bashful to get (.+)'s attention.
-{k="^(.+) is so bashful...too bashful to get your attention.
-{k="^You are so bashful...too bashful to get (.+)'s attention.
-{k="^(.+) is bashful.
-{k="^You are bashful.
-{k="^(.+) beckons (.+) over.
-{k="^(.+) beckons you over.
-{k="^You beckon (.+) over.
-{k="^(.+) beckons everyone over.
-{k="^You beckon everyone over to you.
-{k="^(.+) begs (.+).  How pathetic.
-{k="^(.+) begs you.  How pathetic.
-{k="^You beg (.+).  How pathetic.
-{k="^(.+) begs everyone around him.  How pathetic.
-{k="^You beg everyone around you. How pathetic.
-{k="^(.+) begs everyone around her.  How pathetic.
-{k="^(.+) bites (.+).  Ouch!
-{k="^(.+) bites you.  Ouch!
-{k="^You bite (.+).  Ouch!
-{k="^(.+) looks around for someone to bite.
-{k="^You look around for someone to bite.
-{k="^Blood oozes from (.+)'s wounds.
-{k="^Blood oozes from your wounds.
-{k="^(.+) blinks at (.+).
-{k="^(.+) blinks at you.
-{k="^You blink at (.+).
-{k="^(.+) blinks.
-{k="^You blink your eyes.
-{k="^(.+) blushes at (.+).
-{k="^(.+) blushes at you.
-{k="^You blush at (.+).
-{k="^(.+) blushes.
-{k="^You blush.
-{k="^(.+) bonks (.+) on the noggin.  Doh!
-{k="^(.+) bonks you on the noggin.  Doh!
-{k="^You bonk (.+) on the noggin.  Doh!
-{k="^(.+) bonks his own noggin.  Doh!
-{k="^You bonk yourself on the noggin.  Doh!
-{k="^(.+) bonks her own noggin.  Doh!
-{k="^(.+) is terribly bored with (.+).
-{k="^(.+) is terribly bored with you.
-{k="^You are terribly bored with (.+).
-{k="^(.+) is overcome with boredom.  Oh the drudgery!
-{k="^You are overcome with boredom.  Oh the drudgery!
-{k="^(.+) bounces up and down in front of (.+).
-{k="^(.+) bounces up and down in front of you.
-{k="^You bounce up and down in front of (.+).
-{k="^(.+) bounces up and down.
-{k="^You bounce up and down.
-{k="^(.+) will be right back.  Sit tight, (.+).
-{k="^(.+) will be right back.  Sit tight.
-{k="^You let (.+) know you'll be right back.
-{k="^(.+) will be right back.
-{k="^You let everyone know you'll be right back.
-{k="^(.+) bows before (.+).
-{k="^(.+) bows before you.
-{k="^You bow before (.+).
-{k="^(.+) bows down graciously.
-{k="^You bow down graciously.
-{k="^(.+) burps rudely in (.+)'s face.
-{k="^(.+) burps rudely in your face.
-{k="^You burp rudely in (.+)'s face.
-{k="^(.+) lets out a loud belch.
-{k="^You let out a loud belch.
-{k="^(.+) waves goodbye to (.+).  Farewell!
-{k="^(.+) waves goodbye to you.  Farewell!
-{k="^You wave goodbye to (.+).  Farewell!
-{k="^(.+) waves goodbye to everyone.  Farewell!
-{k="^You wave goodbye to everyone.  Farewell!
-{k="^(.+) cackles maniacally at (.+).
-{k="^(.+) cackles maniacally at you.
-{k="^You cackle maniacally at (.+).
-{k="^(.+) cackles maniacally at the situation.
-{k="^You cackle maniacally at the situation.
-{k="^(.+) cheers at (.+)!
-{k="^(.+) cheers at you.
-{k="^You cheer at (.+).
-{k="^(.+) cheers!
-{k="^You cheer!
-{k="^With arms flapping, (.+) struts around (.+).  Cluck, Cluck, Chicken!
-{k="^With arms flapping, (.+) struts around you.  Cluck, Cluck, Chicken!
-{k="^With arms flapping, you strut around (.+).  Cluck, Cluck, Chicken!
-{k="^With arms flapping, (.+) struts around.  Cluck, Cluck, Chicken!
-{k="^With arms flapping, you strut around.  Cluck, Cluck, Chicken!
-{k="^(.+) chuckles at (.+).
-{k="^(.+) chuckles at you.
-{k="^You chuckle at (.+).
-{k="^(.+) lets out a hearty chuckle.
-{k="^You let out a hearty chuckle.
-{k="^(.+) claps excitedly for (.+).
-{k="^(.+) claps excitedly for you.
-{k="^You clap excitedly for (.+).
-{k="^(.+) claps excitedly.
-{k="^You clap excitedly.
-{k="^(.+) looks at (.+) with a confused look.
-{k="^(.+) looks at you with a confused look.
-{k="^You look at (.+) with a confused look.
-{k="^(.+) is hopelessly confused.
-{k="^You are hopelessly confused.
-{k="^(.+) congratulates (.+).
-{k="^(.+) congratulates you.
-{k="^You congratulate (.+).
-{k="^(.+) congratulates everyone.
-{k="^You congratulate everyone around you.
-{k="^(.+) coughs at (.+).
-{k="^(.+) coughs at you.
-{k="^You cough at (.+).
-{k="^(.+) lets out a hacking cough.
-{k="^You let out a hacking cough.
-{k="^(.+) cowers in fear at the sight of (.+).
-{k="^(.+) cowers in fear at the sight of you.
-{k="^You cower in fear at the sight of (.+).
-{k="^(.+) cowers in fear.
-{k="^You cower in fear.
-{k="^(.+) cracks his knuckles while staring at (.+).
-{k="^(.+) cracks his knuckles while staring at you.
-{k="^You crack your knuckles while staring at (.+).
-{k="^(.+) cracks his knuckles.
-{k="^You crack your knuckles.
-{k="^(.+) cracks her knuckles while staring at (.+).
-{k="^(.+) cracks her knuckles while staring at you.
-{k="^(.+) cracks her knuckles.
-{k="^(.+) cringes away from (.+).
-{k="^(.+) cringes away from you.
-{k="^You cringe away from (.+).
-{k="^(.+) cringes in fear.
-{k="^You cringe in fear.
-{k="^(.+) cries on (.+)'s shoulder.
-{k="^(.+) cries on your shoulder.
-{k="^You cry on (.+)'s shoulder.
-{k="^(.+) cries.
-{k="^You cry.
-{k="^(.+) is curious what (.+) is up to.
-{k="^(.+) is curious what you are up to.
-{k="^You are curious what (.+) is up to.
-{k="^(.+) expresses his curiosity to everyone.
-{k="^You express your curiosity to those around you.
-{k="^(.+) expresses her curiosity to everyone.
-{k="^(.+) curtsies before (.+).
-{k="^(.+) curtsies before you.
-{k="^You curtsey before (.+).
-{k="^(.+) curtsies.
-{k="^You curtsey.
-{k="^(.+) dances with (.+).
-{k="^(.+) dances with you.
-{k="^You dance with (.+).
-{k="^(.+) bursts into dance.
-{k="^You burst into dance.
-{k="^(.+) raises a drink to (.+).  Cheers!
-{k="^(.+) raises a drink to you.  Cheers!
-{k="^You raise a drink to (.+).  Cheers!
-{k="^(.+) raises a drink in the air before chugging it down.  Cheers!
-{k="^You raise a drink in the air before chugging it down.  Cheers!
-{k="^(.+) looks at (.+) and begins to drool.
-{k="^(.+) looks at you and begins to drool.
-{k="^You look at (.+) and begin to drool.
-{k="^A tendril of drool runs down (.+)'s lip.
-{k="^A tendril of drool runs down your lip.
-{k="^(.+) begins to eat in front of (.+).
-{k="^(.+) begins to eat rations in front of you.
-{k="^You begin to eat in front of (.+).
-{k="^(.+) begins to eat.
-{k="^You begin to eat.
-{k="^(.+) eyes (.+) up and down.
-{k="^(.+) eyes you up and down.
-{k="^You eye (.+) up and down.
-{k="^(.+) looks at you with crossed eyes.
-{k="^You cross your eyes.
-{k="^(.+) brushes up against (.+) and farts loudly.
-{k="^(.+) brushes up against you and farts loudly.
-{k="^You brush up against (.+) and fart loudly.
-{k="^(.+) farts loudly.  Whew...what stinks?
-{k="^You fart loudly.  Whew...what stinks?
-{k="^(.+) fidgets impatiently while waiting for (.+).
-{k="^(.+) fidgets impatiently while waiting for you.
-{k="^You fidget impatiently while waiting for (.+).
-{k="^(.+) fidgets.
-{k="^You fidget.
-{k="^(.+) flexes at (.+).  Oooooh so strong!
-{k="^(.+) flexes at you.  Oooooh so strong!
-{k="^You flex at (.+).  Oooooh so strong!
-{k="^(.+) flexes his muscles.  Oooooh so strong!
-{k="^You flex your muscles.  Oooooh so strong!
-{k="^(.+) flexes her muscles.  Oooooh so strong!
-{k="^(.+) frowns with disappointment at (.+).
-{k="^(.+) frowns with disappointment at you.
-{k="^You frown with disappointment at (.+).
-{k="^(.+) frowns.
-{k="^You frown.
-{k="^(.+) gasps at (.+).
-{k="^(.+) gasps at you.
-{k="^You gasp at (.+).
-{k="^(.+) gasps.
-{k="^You gasp.
-{k="^(.+) gazes eagerly at (.+).
-{k="^(.+) gazes eagerly at you.
-{k="^You gaze eagerly at (.+).
-{k="^(.+) gazes off into the distance.
-{k="^You gaze off into the distance.
-{k="^(.+) giggles at (.+).
-{k="^(.+) giggles at you.
-{k="^You giggle at (.+).
-{k="^(.+) giggles.
-{k="^You giggle.
-{k="^(.+) glares angrily at (.+).
-{k="^(.+) glares angrily at you.
-{k="^You glare angrily at (.+).
-{k="^(.+) glares angrily.
-{k="^You glare angrily.
-{k="^(.+) gloats over (.+)'s misfortune.
-{k="^(.+) gloats over your misfortune.
-{k="^You gloat over (.+)'s misfortune.
-{k="^(.+) gloats over everyone's misfortune.
-{k="^You gloat over everyone's misfortune.
-{k="^(.+) greets (.+) warmly.
-{k="^(.+) greets you warmly.
-{k="^You greet (.+) warmly.
-{k="^(.+) greets everyone warmly.
-{k="^You greet everyone warmly.
-{k="^(.+) grins wickedly at (.+).
-{k="^(.+) grins at you wickedly.
-{k="^You grin wickedly at (.+).
-{k="^(.+) grins wickedly.
-{k="^You grin wickedly.
-{k="^(.+) looks at (.+) and groans.
-{k="^(.+) looks at you and groans.
-{k="^You look at (.+) and groan.
-{k="^(.+) begins to groan.
-{k="^You begin to groan.
-{k="^(.+) grovels before (.+) like a subservient peon.
-{k="^(.+) grovels before you like a subservient peon.
-{k="^You grovel before (.+) like a subservient peon.
-{k="^(.+) grovels on the ground, wallowing in subservience.
-{k="^You grovel on the ground, wallowing in subservience.
-{k="^(.+) takes one look at (.+) and lets out a guffaw!
-{k="^(.+) takes one look at you and lets out a guffaw!
-{k="^You take one look at (.+) and let out a guffaw!
-{k="^(.+) lets out a boisterous guffaw!
-{k="^You let out a boisterous guffaw!
-{k="^(.+) hails (.+).
-{k="^(.+) hails you.
-{k="^You hail (.+).
+{k="^(.+) agrees with (.+).$",v=''},
+{k="^(.+) agrees with you.$",v=''},
+{k="^You agree with (.+).$",v=''},
+{k="^(.+) agrees.$",v=''},
+{k="^You agree.$",v=''},
+{k="^(.+) is amazed by (.+)!$",v=''},
+{k="^(.+) is amazed by you!$",v=''},
+{k="^You are amazed by (.+)!$",v=''},
+{k="^(.+) is amazed!$",v=''},
+{k="^You are amazed!$",v=''},
+{k="^(.+) raises his fist in anger at (.+).$",v=''},
+{k="^(.+) raises his fist in anger at you.$",v=''},
+{k="^You raise your fist in anger at (.+).$",v=''},
+{k="^(.+) raises his fist in anger.$",v=''},
+{k="^You raise your fist in anger.$",v=''},
+{k="^(.+) raises her fist in anger at (.+).$",v=''},
+{k="^(.+) raises her fist in anger at you.$",v=''},
+{k="^(.+) raises her fist in anger.$",v=''},
+{k="^(.+) apologizes to (.+).  Sorry!$",v=''},
+{k="^(.+) apologizes to you.  Sorry!$",v=''},
+{k="^You apologize to (.+).  Sorry!$",v=''},
+{k="^(.+) apologizes to everyone.  Sorry!$",v=''},
+{k="^You apologize to everyone.  Sorry!$",v=''},
+{k="^(.+) applauds at (.+).  Bravo!$",v=''},
+{k="^(.+) applauds at you.  Bravo!$",v=''},
+{k="^You applaud at (.+).  Bravo!$",v=''},
+{k="^(.+) applauds.  Bravo!$",v=''},
+{k="^You applaud.  Bravo!$",v=''},
+{k="^(.+) is so bashful...too bashful to get (.+)'s attention.$",v=''},
+{k="^(.+) is so bashful...too bashful to get your attention.$",v=''},
+{k="^You are so bashful...too bashful to get (.+)'s attention.$",v=''},
+{k="^(.+) is bashful.$",v=''},
+{k="^You are bashful.$",v=''},
+{k="^(.+) beckons (.+) over.$",v=''},
+{k="^(.+) beckons you over.$",v=''},
+{k="^You beckon (.+) over.$",v=''},
+{k="^(.+) beckons everyone over.$",v=''},
+{k="^You beckon everyone over to you.$",v=''},
+{k="^(.+) begs (.+).  How pathetic.$",v=''},
+{k="^(.+) begs you.  How pathetic.$",v=''},
+{k="^You beg (.+).  How pathetic.$",v=''},
+{k="^(.+) begs everyone around him.  How pathetic.$",v=''},
+{k="^You beg everyone around you. How pathetic.$",v=''},
+{k="^(.+) begs everyone around her.  How pathetic.$",v=''},
+{k="^(.+) bites (.+).  Ouch!$",v=''},
+{k="^(.+) bites you.  Ouch!$",v=''},
+{k="^You bite (.+).  Ouch!$",v=''},
+{k="^(.+) looks around for someone to bite.$",v=''},
+{k="^You look around for someone to bite.$",v=''},
+{k="^Blood oozes from (.+)'s wounds.$",v=''},
+{k="^Blood oozes from your wounds.$",v=''},
+{k="^(.+) blinks at (.+).$",v=''},
+{k="^(.+) blinks at you.$",v=''},
+{k="^You blink at (.+).$",v=''},
+{k="^(.+) blinks.$",v=''},
+{k="^You blink your eyes.$",v=''},
+{k="^(.+) blushes at (.+).$",v=''},
+{k="^(.+) blushes at you.$",v=''},
+{k="^You blush at (.+).$",v=''},
+{k="^(.+) blushes.$",v=''},
+{k="^You blush.$",v=''},
+{k="^(.+) bonks (.+) on the noggin.  Doh!$",v=''},
+{k="^(.+) bonks you on the noggin.  Doh!$",v=''},
+{k="^You bonk (.+) on the noggin.  Doh!$",v=''},
+{k="^(.+) bonks his own noggin.  Doh!$",v=''},
+{k="^You bonk yourself on the noggin.  Doh!$",v=''},
+{k="^(.+) bonks her own noggin.  Doh!$",v=''},
+{k="^(.+) is terribly bored with (.+).$",v=''},
+{k="^(.+) is terribly bored with you.$",v=''},
+{k="^You are terribly bored with (.+).$",v=''},
+{k="^(.+) is overcome with boredom.  Oh the drudgery!$",v=''},
+{k="^You are overcome with boredom.  Oh the drudgery!$",v=''},
+{k="^(.+) bounces up and down in front of (.+).$",v=''},
+{k="^(.+) bounces up and down in front of you.$",v=''},
+{k="^You bounce up and down in front of (.+).$",v=''},
+{k="^(.+) bounces up and down.$",v=''},
+{k="^You bounce up and down.$",v=''},
+{k="^(.+) will be right back.  Sit tight, (.+).$",v=''},
+{k="^(.+) will be right back.  Sit tight.$",v=''},
+{k="^You let (.+) know you'll be right back.$",v=''},
+{k="^(.+) will be right back.$",v=''},
+{k="^You let everyone know you'll be right back.$",v=''},
+{k="^(.+) bows before (.+).$",v=''},
+{k="^(.+) bows before you.$",v=''},
+{k="^You bow before (.+).$",v=''},
+{k="^(.+) bows down graciously.$",v=''},
+{k="^You bow down graciously.$",v=''},
+{k="^(.+) burps rudely in (.+)'s face.$",v=''},
+{k="^(.+) burps rudely in your face.$",v=''},
+{k="^You burp rudely in (.+)'s face.$",v=''},
+{k="^(.+) lets out a loud belch.$",v=''},
+{k="^You let out a loud belch.$",v=''},
+{k="^(.+) waves goodbye to (.+).  Farewell!$",v=''},
+{k="^(.+) waves goodbye to you.  Farewell!$",v=''},
+{k="^You wave goodbye to (.+).  Farewell!$",v=''},
+{k="^(.+) waves goodbye to everyone.  Farewell!$",v=''},
+{k="^You wave goodbye to everyone.  Farewell!$",v=''},
+{k="^(.+) cackles maniacally at (.+).$",v=''},
+{k="^(.+) cackles maniacally at you.$",v=''},
+{k="^You cackle maniacally at (.+).$",v=''},
+{k="^(.+) cackles maniacally at the situation.$",v=''},
+{k="^You cackle maniacally at the situation.$",v=''},
+{k="^(.+) cheers at (.+)!$",v=''},
+{k="^(.+) cheers at you.$",v=''},
+{k="^You cheer at (.+).$",v=''},
+{k="^(.+) cheers!$",v=''},
+{k="^You cheer!$",v=''},
+{k="^With arms flapping, (.+) struts around (.+).  Cluck, Cluck, Chicken!$",v=''},
+{k="^With arms flapping, (.+) struts around you.  Cluck, Cluck, Chicken!$",v=''},
+{k="^With arms flapping, you strut around (.+).  Cluck, Cluck, Chicken!$",v=''},
+{k="^With arms flapping, (.+) struts around.  Cluck, Cluck, Chicken!$",v=''},
+{k="^With arms flapping, you strut around.  Cluck, Cluck, Chicken!$",v=''},
+{k="^(.+) chuckles at (.+).$",v=''},
+{k="^(.+) chuckles at you.$",v=''},
+{k="^You chuckle at (.+).$",v=''},
+{k="^(.+) lets out a hearty chuckle.$",v=''},
+{k="^You let out a hearty chuckle.$",v=''},
+{k="^(.+) claps excitedly for (.+).$",v=''},
+{k="^(.+) claps excitedly for you.$",v=''},
+{k="^You clap excitedly for (.+).$",v=''},
+{k="^(.+) claps excitedly.$",v=''},
+{k="^You clap excitedly.$",v=''},
+{k="^(.+) looks at (.+) with a confused look.$",v=''},
+{k="^(.+) looks at you with a confused look.$",v=''},
+{k="^You look at (.+) with a confused look.$",v=''},
+{k="^(.+) is hopelessly confused.$",v=''},
+{k="^You are hopelessly confused.$",v=''},
+{k="^(.+) congratulates (.+).$",v=''},
+{k="^(.+) congratulates you.$",v=''},
+{k="^You congratulate (.+).$",v=''},
+{k="^(.+) congratulates everyone.$",v=''},
+{k="^You congratulate everyone around you.$",v=''},
+{k="^(.+) coughs at (.+).$",v=''},
+{k="^(.+) coughs at you.$",v=''},
+{k="^You cough at (.+).$",v=''},
+{k="^(.+) lets out a hacking cough.$",v=''},
+{k="^You let out a hacking cough.$",v=''},
+{k="^(.+) cowers in fear at the sight of (.+).$",v=''},
+{k="^(.+) cowers in fear at the sight of you.$",v=''},
+{k="^You cower in fear at the sight of (.+).$",v=''},
+{k="^(.+) cowers in fear.$",v=''},
+{k="^You cower in fear.$",v=''},
+{k="^(.+) cracks his knuckles while staring at (.+).$",v=''},
+{k="^(.+) cracks his knuckles while staring at you.$",v=''},
+{k="^You crack your knuckles while staring at (.+).$",v=''},
+{k="^(.+) cracks his knuckles.$",v=''},
+{k="^You crack your knuckles.$",v=''},
+{k="^(.+) cracks her knuckles while staring at (.+).$",v=''},
+{k="^(.+) cracks her knuckles while staring at you.$",v=''},
+{k="^(.+) cracks her knuckles.$",v=''},
+{k="^(.+) cringes away from (.+).$",v=''},
+{k="^(.+) cringes away from you.$",v=''},
+{k="^You cringe away from (.+).$",v=''},
+{k="^(.+) cringes in fear.$",v=''},
+{k="^You cringe in fear.$",v=''},
+{k="^(.+) cries on (.+)'s shoulder.$",v=''},
+{k="^(.+) cries on your shoulder.$",v=''},
+{k="^You cry on (.+)'s shoulder.$",v=''},
+{k="^(.+) cries.$",v=''},
+{k="^You cry.$",v=''},
+{k="^(.+) is curious what (.+) is up to.$",v=''},
+{k="^(.+) is curious what you are up to.$",v=''},
+{k="^You are curious what (.+) is up to.$",v=''},
+{k="^(.+) expresses his curiosity to everyone.$",v=''},
+{k="^You express your curiosity to those around you.$",v=''},
+{k="^(.+) expresses her curiosity to everyone.$",v=''},
+{k="^(.+) curtsies before (.+).$",v=''},
+{k="^(.+) curtsies before you.$",v=''},
+{k="^You curtsey before (.+).$",v=''},
+{k="^(.+) curtsies.$",v=''},
+{k="^You curtsey.$",v=''},
+{k="^(.+) dances with (.+).$",v=''},
+{k="^(.+) dances with you.$",v=''},
+{k="^You dance with (.+).$",v=''},
+{k="^(.+) bursts into dance.$",v=''},
+{k="^You burst into dance.$",v=''},
+{k="^(.+) raises a drink to (.+).  Cheers!$",v=''},
+{k="^(.+) raises a drink to you.  Cheers!$",v=''},
+{k="^You raise a drink to (.+).  Cheers!$",v=''},
+{k="^(.+) raises a drink in the air before chugging it down.  Cheers!$",v=''},
+{k="^You raise a drink in the air before chugging it down.  Cheers!$",v=''},
+{k="^(.+) looks at (.+) and begins to drool.$",v=''},
+{k="^(.+) looks at you and begins to drool.$",v=''},
+{k="^You look at (.+) and begin to drool.$",v=''},
+{k="^A tendril of drool runs down (.+)'s lip.$",v=''},
+{k="^A tendril of drool runs down your lip.$",v=''},
+{k="^(.+) begins to eat in front of (.+).$",v=''},
+{k="^(.+) begins to eat rations in front of you.$",v=''},
+{k="^You begin to eat in front of (.+).$",v=''},
+{k="^(.+) begins to eat.$",v=''},
+{k="^You begin to eat.$",v=''},
+{k="^(.+) eyes (.+) up and down.$",v=''},
+{k="^(.+) eyes you up and down.$",v=''},
+{k="^You eye (.+) up and down.$",v=''},
+{k="^(.+) looks at you with crossed eyes.$",v=''},
+{k="^You cross your eyes.$",v=''},
+{k="^(.+) brushes up against (.+) and farts loudly.$",v=''},
+{k="^(.+) brushes up against you and farts loudly.$",v=''},
+{k="^You brush up against (.+) and fart loudly.$",v=''},
+{k="^(.+) farts loudly.  Whew...what stinks?$",v=''},
+{k="^You fart loudly.  Whew...what stinks?$",v=''},
+{k="^(.+) fidgets impatiently while waiting for (.+).$",v=''},
+{k="^(.+) fidgets impatiently while waiting for you.$",v=''},
+{k="^You fidget impatiently while waiting for (.+).$",v=''},
+{k="^(.+) fidgets.$",v=''},
+{k="^You fidget.$",v=''},
+{k="^(.+) flexes at (.+).  Oooooh so strong!$",v=''},
+{k="^(.+) flexes at you.  Oooooh so strong!$",v=''},
+{k="^You flex at (.+).  Oooooh so strong!$",v=''},
+{k="^(.+) flexes his muscles.  Oooooh so strong!$",v=''},
+{k="^You flex your muscles.  Oooooh so strong!$",v=''},
+{k="^(.+) flexes her muscles.  Oooooh so strong!$",v=''},
+{k="^(.+) frowns with disappointment at (.+).$",v=''},
+{k="^(.+) frowns with disappointment at you.$",v=''},
+{k="^You frown with disappointment at (.+).$",v=''},
+{k="^(.+) frowns.$",v=''},
+{k="^You frown.$",v=''},
+{k="^(.+) gasps at (.+).$",v=''},
+{k="^(.+) gasps at you.$",v=''},
+{k="^You gasp at (.+).$",v=''},
+{k="^(.+) gasps.$",v=''},
+{k="^You gasp.$",v=''},
+{k="^(.+) gazes eagerly at (.+).$",v=''},
+{k="^(.+) gazes eagerly at you.$",v=''},
+{k="^You gaze eagerly at (.+).$",v=''},
+{k="^(.+) gazes off into the distance.$",v=''},
+{k="^You gaze off into the distance.$",v=''},
+{k="^(.+) giggles at (.+).$",v=''},
+{k="^(.+) giggles at you.$",v=''},
+{k="^You giggle at (.+).$",v=''},
+{k="^(.+) giggles.$",v=''},
+{k="^You giggle.$",v=''},
+{k="^(.+) glares angrily at (.+).$",v=''},
+{k="^(.+) glares angrily at you.$",v=''},
+{k="^You glare angrily at (.+).$",v=''},
+{k="^(.+) glares angrily.$",v=''},
+{k="^You glare angrily.$",v=''},
+{k="^(.+) gloats over (.+)'s misfortune.$",v=''},
+{k="^(.+) gloats over your misfortune.$",v=''},
+{k="^You gloat over (.+)'s misfortune.$",v=''},
+{k="^(.+) gloats over everyone's misfortune.$",v=''},
+{k="^You gloat over everyone's misfortune.$",v=''},
+{k="^(.+) greets (.+) warmly.$",v=''},
+{k="^(.+) greets you warmly.$",v=''},
+{k="^You greet (.+) warmly.$",v=''},
+{k="^(.+) greets everyone warmly.$",v=''},
+{k="^You greet everyone warmly.$",v=''},
+{k="^(.+) grins wickedly at (.+).$",v=''},
+{k="^(.+) grins at you wickedly.$",v=''},
+{k="^You grin wickedly at (.+).$",v=''},
+{k="^(.+) grins wickedly.$",v=''},
+{k="^You grin wickedly.$",v=''},
+{k="^(.+) looks at (.+) and groans.$",v=''},
+{k="^(.+) looks at you and groans.$",v=''},
+{k="^You look at (.+) and groan.$",v=''},
+{k="^(.+) begins to groan.$",v=''},
+{k="^You begin to groan.$",v=''},
+{k="^(.+) grovels before (.+) like a subservient peon.$",v=''},
+{k="^(.+) grovels before you like a subservient peon.$",v=''},
+{k="^You grovel before (.+) like a subservient peon.$",v=''},
+{k="^(.+) grovels on the ground, wallowing in subservience.$",v=''},
+{k="^You grovel on the ground, wallowing in subservience.$",v=''},
+{k="^(.+) takes one look at (.+) and lets out a guffaw!$",v=''},
+{k="^(.+) takes one look at you and lets out a guffaw!$",v=''},
+{k="^You take one look at (.+) and let out a guffaw!$",v=''},
+{k="^(.+) lets out a boisterous guffaw!$",v=''},
+{k="^You let out a boisterous guffaw!$",v=''},
+{k="^(.+) hails (.+).$",v=''},
+{k="^(.+) hails you.$",v=''},
+{k="^You hail (.+).$",v=''},
 {k="^(.+) hails everyone around him.$",v=''},
 {k="^You hail those around you.$",v=''},
 {k="^(.+) hails everyone around her.$",v=''},
